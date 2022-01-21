@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AvayaWorkSpace6\\Omni-Notes\\omniNotes\\build\\intermediates\\incremental\\mergeAlphaDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "D:\\AvayaWorkSpace6\\Omni-Notes\\omniNotes\\src\\main\\res\\values-v19\\bools.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "2",
+                        "startOffsets": "809",
+                        "endColumns": "42",
+                        "endOffsets": "849"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "44",
+                        "endOffsets": "95"
+                    }
+                },
+                {
+                    "source": "D:\\AvayaWorkSpace6\\Omni-Notes\\omniNotes\\src\\main\\res\\values-v19\\styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "2",
+                        "startOffsets": "828",
+                        "endLines": "21",
+                        "endColumns": "10",
+                        "endOffsets": "1032"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "256",
+                        "endLines": "9",
+                        "endColumns": "10",
+                        "endOffsets": "457"
+                    }
+                },
+                {
+                    "source": "D:\\AvayaWorkSpace6\\Omni-Notes\\omniNotes\\src\\main\\res\\values-v19\\dimens.xml",
+                    "from": {
+                        "startLines": "19,18,20",
+                        "startColumns": "2,2,2",
+                        "startOffsets": "818,769,870",
+                        "endColumns": "50,47,50",
+                        "endOffsets": "866,814,918"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "100,153,203",
+                        "endColumns": "52,49,52",
+                        "endOffsets": "148,198,251"
+                    }
+                }
+            ]
+        }
+    ]
+}

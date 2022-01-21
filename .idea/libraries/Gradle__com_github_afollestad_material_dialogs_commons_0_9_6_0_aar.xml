@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.afollestad.material-dialogs:commons:0.9.6.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://C:/Gradle/gradle-7.3.3/caches/transforms-2/files-2.1/450f4d977463922df541be5b1e92186d/jetified-commons-0.9.6.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://C:/Gradle/gradle-7.3.3/caches/transforms-2/files-2.1/450f4d977463922df541be5b1e92186d/jetified-commons-0.9.6.0/jars/classes.jar!/" />
+      <root url="file://C:/Gradle/gradle-7.3.3/caches/transforms-2/files-2.1/450f4d977463922df541be5b1e92186d/jetified-commons-0.9.6.0/res" />
+      <root url="file://C:/Gradle/gradle-7.3.3/caches/transforms-2/files-2.1/450f4d977463922df541be5b1e92186d/jetified-commons-0.9.6.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/Gradle/gradle-7.3.3/caches/modules-2/files-2.1/com.github.afollestad.material-dialogs/commons/0.9.6.0/6fbeca95352713a90abd18b4423a8bce84ccfa14/commons-0.9.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/Gradle/gradle-7.3.3/caches/modules-2/files-2.1/com.github.afollestad.material-dialogs/commons/0.9.6.0/a2e8cc5dc514aa945e3a8b2c5be757ec9c77c955/commons-0.9.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

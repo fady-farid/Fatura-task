@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AvayaWorkSpace6\\Omni-Notes\\omniNotes\\build\\intermediates\\incremental\\mergeAlphaDebugResources\\merged.dir\\values-land-v19\\values-land-v19.xml",
+            "map": [
+                {
+                    "source": "D:\\AvayaWorkSpace6\\Omni-Notes\\omniNotes\\src\\main\\res\\values-land-v19\\bools.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "2",
+                        "startOffsets": "809",
+                        "endColumns": "43",
+                        "endOffsets": "850"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "45",
+                        "endOffsets": "96"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AvayaWorkSpace6\\Omni-Notes\\omniNotes\\build\\intermediates\\incremental\\mergeAlphaDebugResources\\merged.dir\\values-sw720dp-land-v21\\values-sw720dp-land-v21.xml",
+            "map": [
+                {
+                    "source": "D:\\AvayaWorkSpace6\\Omni-Notes\\omniNotes\\src\\main\\res\\values-sw720dp-land-v21\\dimens.xml",
+                    "from": {
+                        "startLines": "25,23",
+                        "startColumns": "2,2",
+                        "startOffsets": "1000,950",
+                        "endColumns": "56,46",
+                        "endOffsets": "1054,994"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,48",
+                        "endOffsets": "109,158"
+                    }
+                }
+            ]
+        }
+    ]
+}
